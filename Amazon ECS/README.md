@@ -19,7 +19,7 @@ AWS 환경에서 컨테이너 애플리케이션을 쉽게 실행, 확장 및 �
 
 ### ECS Service (서비스)
 - 서비스 유형(replica, daemon)과 작업 배치 전략(Binpacking, Spread, Random)을 선택 가능
-- 로드벨랜서(ALB) -> 부하분산
+- 로드 벨런서(ALB) -> 부하 분산
 - 서비스 Auto Scaling 적용 가능
 
 ```
